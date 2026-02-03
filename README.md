@@ -1,5 +1,5 @@
 # ✨python_projects✨
-A collection of python_based utility scripts focusig on clean logic and functional design. this collection demonstrates core programming principles, including logic flow, mathematical operations and user-interface interaction.
+A collection of python_based utility scripts focusing on clean logic and functional design. this collection demonstrates core programming principles, including logic flow, mathematical operations and user-interface interaction.
 
 #Project Portfolio
 
