@@ -3,7 +3,7 @@ A collection of python_based utility scripts focusig on clean logic and function
 
 #Project Portfolio
 
-###1. Body Analytics Utility
+###1.    [Body Analytics Utility](./bmi_analytics.py)
 
 ​A refined Python implementation designed to calculate Body Mass Index (BMI) with a focus on unit precision and inclusive data categorization. This project highlights the importance of standardized calculations across diverse measurement systems.
 
