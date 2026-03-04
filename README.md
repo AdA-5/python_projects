@@ -3,7 +3,7 @@ A collection of python_based utility scripts focusing on clean logic and functio
 
 #Project Portfolio
 
-1. Body Analytics Utility
+1. [Body Analytics Utility](./bmi_analytics.py)
 
 A refined Python implementation designed to calculate Body Mass Index (BMI) with a focus on unit precision and inclusive data categorization. This project highlights the importance of standardized calculations across diverse measurement systems.
 
@@ -15,7 +15,7 @@ Technical Highlights:
 
     Persistence: Features a recursive loop for a seamless user experience.
 
-2. Arithmetic Logic Tool
+2. [Arithmetic Logic Tool](./calculator.py)
 
 A terminal-based calculator designed to perform fundamental arithmetic operations. This script emphasizes robust input validation and real-time error handling to ensure a crash-proof user experience.
 
@@ -23,9 +23,9 @@ Technical Highlights:
 
     Core Operations: Supports addition, subtraction, multiplication, and division.
 
-    Error Resilience: Implements try-except blocks to manage non-numeric inputs and prevent division by zero.
+    Error Resilience:prevent division by zero.
 
-    Control Flow: Utilizes a while loop with a built-in termination command for continuous usage.
+    Control Flow: Provides a while loop with a built-in termination command for continuous usage.
 
   
 ---
