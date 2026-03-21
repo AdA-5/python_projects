@@ -21,6 +21,17 @@ A terminal-based calculator designed to perform fundamental arithmetic operation
 
 ---
 
+### 3. [🌡️ Thermal Conversion Suite](./Temperature_Conversion.py)
+A precise utility for transitioning between Celsius and Fahrenheit scales, emphasizing mathematical accuracy and user input flexibility.
+
+Technical Highlights:
+Bidirectional Logic: Implements standard thermal conversion formulas to ensure bidirectional data integrity.
+Input Sanitization: Utilizes .strip().upper() and .lower() methods to handle varied user casing and whitespace, ensuring a friction-free interface.
+
+Formulaic Precision:
+         Celsius to Fahrenheit: F=(C×9/5)+32
+         Fahrenheit to Celsius: C=(F−32)×5/9
+
 ### 🚀 How to Run These Projects
 1. **Clone the repository:**
    `git clone https://github.com/AdA-5/Python-projects.git`
